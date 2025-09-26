@@ -1,177 +1,188 @@
 # ai_training
 Artificial Intelligence (AI)
+
 --------------------------------------------------------------------------------------------------------------
 1. History of AI
 --------------------------------------------------------------------------------------------------------------
 
-1940s–1950s: Foundations of computing (Alan Turing → Turing Test, 1950).
+    1940s–1950s: Foundations of computing (Alan Turing → Turing Test, 1950).
 
-1956: Dartmouth Conference → Birth of AI as a field.
+    1956: Dartmouth Conference → Birth of AI as a field.
 
-1960s–1970s: Symbolic AI, expert systems, rule-based programming.
+    1960s–1970s: Symbolic AI, expert systems, rule-based programming.
 
-1980s: Rise of expert systems in industry; AI Winter due to high costs + limited computing power.
+    1980s: Rise of expert systems in industry; AI Winter due to high costs + limited computing power.
 
-1990s: Revival with machine learning & probabilistic models.
+    1990s: Revival with machine learning & probabilistic models.
 
-1997: IBM Deep Blue defeats Garry Kasparov in chess.
+    1997: IBM Deep Blue defeats Garry Kasparov in chess.
 
-2000s–Present: Big data + deep learning revolution. AI in speech, vision, NLP, robotics, healthcare.
+    2000s–Present: Big data + deep learning revolution. AI in speech, vision, NLP, robotics, healthcare.
+
 ------------------------------------------------------------------------------------------------------------
 2. What is AI?
 ------------------------------------------------------------------------------------------------------------
-Definition: The simulation of human intelligence by machines to perform tasks such as reasoning, learning, problem-solving, perception, and decision-making.
+    Definition: The simulation of human intelligence by machines to perform tasks such as reasoning, learning, problem-solving, perception, and decision-making.
 
-Key characteristics: Adaptability, autonomy, goal-oriented behavior.
+    Key characteristics: Adaptability, autonomy, goal-oriented behavior.
 
-Relation to subfields: AI ⟶ includes machine learning, deep learning, NLP, robotics, computer vision, expert systems.
+    Relation to subfields: AI ⟶ includes machine learning, deep learning, NLP, robotics, computer vision, expert systems.
+
 --------------------------------------------------------------------------------------------------------------
 3. Applications of AI
 --------------------------------------------------------------------------------------------------------------
-Healthcare: Disease diagnosis, drug discovery, personalized medicine.
+    Healthcare: Disease diagnosis, drug discovery, personalized medicine.
 
-Finance: Fraud detection, stock predictions, algorithmic trading.
+    Finance: Fraud detection, stock predictions, algorithmic trading.
 
-Business: Chatbots, recommendation systems (Netflix, Amazon).
+    Business: Chatbots, recommendation systems (Netflix, Amazon).
 
-Transportation: Self-driving cars, traffic prediction.
+    Transportation: Self-driving cars, traffic prediction.
 
-Education: Intelligent tutoring systems, adaptive learning.
+    Education: Intelligent tutoring systems, adaptive learning.
 
-Security: Facial recognition, anomaly detection.
+    Security: Facial recognition, anomaly detection.
 
-Daily Life: Virtual assistants (Siri, Alexa, Google Assistant).
+    Daily Life: Virtual assistants (Siri, Alexa, Google Assistant).
+
 --------------------------------------------------------------------------------------------------------------
 4. Types of AI
 --------------------------------------------------------------------------------------------------------------
-Based on capability:
+    Based on capability:
 
-Narrow AI (ANI): Task-specific (e.g., spam filter, chess engine).
+    Narrow AI (ANI): Task-specific (e.g., spam filter, chess engine).
 
-General AI (AGI): Human-like intelligence (still theoretical).
+    General AI (AGI): Human-like intelligence (still theoretical).
 
-Superintelligent AI (ASI): Beyond human intelligence (hypothetical future).
+    Superintelligent AI (ASI): Beyond human intelligence (hypothetical future).
 
-Based on functionality:
+    Based on functionality:
 
-Reactive machines: No memory, just responses (Deep Blue).
+    Reactive machines: No memory, just responses (Deep Blue).
 
-Limited memory: Learns from past data (self-driving cars).
+    Limited memory: Learns from past data (self-driving cars).
 
-Theory of mind: Understands emotions & social interaction (research).
+    Theory of mind: Understands emotions & social interaction (research).
 
-Self-aware AI: Conscious AI (not yet developed).
+    Self-aware AI: Conscious AI (not yet developed).
+
 --------------------------------------------------------------------------------------------------------------
 5. Programming Languages for AI
 --------------------------------------------------------------------------------------------------------------
-Python → Most popular, huge AI/ML libraries (TensorFlow, PyTorch, Scikit-learn).
+    Python → Most popular, huge AI/ML libraries (TensorFlow, PyTorch, Scikit-learn).
 
-R → Data analysis & statistics.
+    R → Data analysis & statistics.
 
-Java → Used in enterprise AI solutions.
+    Java → Used in enterprise AI solutions.
 
-C++ → High-performance AI systems (robotics, gaming).
+    C++ → High-performance AI systems (robotics, gaming).
 
-Prolog / Lisp → Early symbolic AI and logic programming.
+    Prolog / Lisp → Early symbolic AI and logic programming.
 
-Julia → High-performance computing & numerical AI tasks.
+    Julia → High-performance computing & numerical AI tasks.
+
 --------------------------------------------------------------------------------------------------------------
 6. Machine Learning (ML)
 --------------------------------------------------------------------------------------------------------------
-Definition: Subfield of AI where systems learn patterns from data without explicit programming.
+    Definition: Subfield of AI where systems learn patterns from data without explicit programming.
 
-Types:
+    Types:
 
-Supervised learning (classification, regression).
+        Supervised learning (classification, regression).
 
-Unsupervised learning (clustering, dimensionality reduction).
+        Unsupervised learning (clustering, dimensionality reduction).
 
-Reinforcement learning (trial-and-error learning with rewards).
+        Reinforcement learning (trial-and-error learning with rewards).
+
 --------------------------------------------------------------------------------------------------------------
 7. Machine Learning Algorithms
 --------------------------------------------------------------------------------------------------------------
-Supervised:
+    Supervised:
 
-Linear Regression, Logistic Regression.
+        Linear Regression, Logistic Regression.
 
-Decision Trees, Random Forests.
+        Decision Trees, Random Forests.
 
-Support Vector Machines (SVM).
+        Support Vector Machines (SVM).
 
-Neural Networks.
+        Neural Networks.
 
-Unsupervised:
+    Unsupervised:
 
-K-Means clustering.
+        K-Means clustering.
 
-Hierarchical clustering.
+        Hierarchical clustering.
 
-PCA (Principal Component Analysis).
+        PCA (Principal Component Analysis).
 
-Reinforcement:
+        Reinforcement:
 
-Q-Learning.
+        Q-Learning.
 
-Deep Q-Networks (DQN).
+        Deep Q-Networks (DQN).
+
 --------------------------------------------------------------------------------------------------------------
 8. Limitations of Machine Learning
 --------------------------------------------------------------------------------------------------------------
-Requires large amounts of high-quality data.
+    Requires large amounts of high-quality data.
 
-Bias & fairness issues if data is biased.
+    Bias & fairness issues if data is biased.
 
-Black-box problem: Hard to interpret complex models (e.g., deep neural nets).
+    Black-box problem: Hard to interpret complex models (e.g., deep neural nets).
 
-High computational and storage costs.
+    High computational and storage costs.
 
-Struggles with transfer learning (adapting to new contexts).
+    Struggles with transfer learning (adapting to new contexts).
+
 --------------------------------------------------------------------------------------------------------------
 9. Deep Learning
 --------------------------------------------------------------------------------------------------------------
-Subset of ML based on artificial neural networks with many layers.
+    Subset of ML based on artificial neural networks with many layers.
 
-Excels in computer vision, speech recognition, NLP.
+    Excels in computer vision, speech recognition, NLP.
 
-Requires GPUs/TPUs for large computations.
+    Requires GPUs/TPUs for large computations.
 
-Examples: Image recognition (CNNs), language models (Transformers).
+    Examples: Image recognition (CNNs), language models (Transformers).
+
 --------------------------------------------------------------------------------------------------------------
 10. Neural Networks
 --------------------------------------------------------------------------------------------------------------
-Inspiration: Modeled after human brain neurons.
+    Inspiration: Modeled after human brain neurons.
 
-Components: Input layer, hidden layers, output layer.
+    Components: Input layer, hidden layers, output layer.
 
-Activation functions: Sigmoid, ReLU, Softmax.
+    Activation functions: Sigmoid, ReLU, Softmax.
 
-Types:
+    Types:
 
-Feedforward NN: Basic structure.
+        Feedforward NN: Basic structure.
 
-Convolutional NN (CNN): Image/video recognition.
+        Convolutional NN (CNN): Image/video recognition.
 
-Recurrent NN (RNN, LSTM, GRU): Sequential data (speech, text).
+        Recurrent NN (RNN, LSTM, GRU): Sequential data (speech, text).
 
-Transformers: Advanced NLP (GPT, BERT).
+        Transformers: Advanced NLP (GPT, BERT).
+
 --------------------------------------------------------------------------------------------------------------
 11. Natural Language Processing (NLP)
 --------------------------------------------------------------------------------------------------------------
-Definition: AI field focused on enabling machines to understand, interpret, and generate human language.
+    Definition: AI field focused on enabling machines to understand, interpret, and generate human language.
 
-Key tasks:
+    Key tasks:
 
-Text classification (spam detection).
+            Text classification (spam detection).
 
-Sentiment analysis.
+            Sentiment analysis.
 
-Machine translation (Google Translate).
+            Machine translation (Google Translate).
 
-Chatbots and conversational AI.
+            Chatbots and conversational AI.
 
-Speech recognition (voice assistants).
+            Speech recognition (voice assistants).
 
-Techniques:
+    Techniques:
 
-Bag of Words, TF-IDF, Word Embeddings (Word2Vec, GloVe).
+            Bag of Words, TF-IDF, Word Embeddings (Word2Vec, GloVe).
 
-Transformers (BERT, GPT).
+            Transformers (BERT, GPT).
