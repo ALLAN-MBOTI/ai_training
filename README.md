@@ -153,9 +153,9 @@ Convolutional NN (CNN): Image/video recognition.
 Recurrent NN (RNN, LSTM, GRU): Sequential data (speech, text).
 
 Transformers: Advanced NLP (GPT, BERT).
-
+--------------------------------------------------------------------------------------------------------------
 11. Natural Language Processing (NLP)
-
+--------------------------------------------------------------------------------------------------------------
 Definition: AI field focused on enabling machines to understand, interpret, and generate human language.
 
 Key tasks:
