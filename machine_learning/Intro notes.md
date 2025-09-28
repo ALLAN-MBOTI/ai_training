@@ -90,6 +90,7 @@ Machine learning is broadly divided into three main types:
 --------------------------------------------------------------------------------------------------------------
     Definition:
         Reinforcement learning is a type of ML where an agent learns by interacting with an environment. The agent takes actions and receives rewards (positive or negative feedback). Over time, it learns the best strategy (policy) to maximize rewards.
+        https://drive.google.com/file/d/1LDNP8ITcBWH384sNgpfIxaAddlKmT87w/view?usp=sharing
 
     Key components:
 

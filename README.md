@@ -186,3 +186,4 @@ Artificial Intelligence (AI)
             Bag of Words, TF-IDF, Word Embeddings (Word2Vec, GloVe).
 
             Transformers (BERT, GPT).
+https://drive.google.com/file/d/1m4gLiodjYDHH1Cy2jlA3Faimdu1FaeCt/view?usp=drive_link
